@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KevinUSCU/roshambo/issues"
   },
-  "homepage": "https://github.com/KevinUSCU/roshambo#readme"
+  "homepage": "https://github.com/KevinUSCU/roshambo#readme",
+  "dependencies": {
+    "yargs": "^10.0.3"
+  }
 }
