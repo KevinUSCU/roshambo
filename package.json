@@ -1,0 +1,19 @@
+{
+  "name": "roshambo",
+  "version": "0.0.1",
+  "description": "Simple game of roshambo on the command line",
+  "main": "main.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinUSCU/roshambo.git"
+  },
+  "author": "Kevin Springer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinUSCU/roshambo/issues"
+  },
+  "homepage": "https://github.com/KevinUSCU/roshambo#readme"
+}
